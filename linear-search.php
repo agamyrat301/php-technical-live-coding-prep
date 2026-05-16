@@ -1,6 +1,7 @@
 <?php
 
 // implement linear search
+// binary search is much faster than linear search
 $array1 = [
     'testhere',
     'Alicia',
